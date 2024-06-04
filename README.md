@@ -10,5 +10,8 @@ Mentors:
 - [Giridhar AP](https://github.com/Giri-is-coding)
 
 Members:
-- [Aditya gupta](https://github.com/Aditya-Guptaaa)
 <br>
+- [Dishank Jaiswal](https://github.com/DishankJ)
+- [Aditya gupta](https://github.com/Aditya-Guptaaa)
+
+
