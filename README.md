@@ -14,6 +14,7 @@ Members:
 - [Dishank Jaiswal](https://github.com/DishankJ)
 - [Aditya gupta](https://github.com/Aditya-Guptaaa)
 - [Anay Sawant](https://github.com/Anay-Sawant)
+- [Bhavya Shah](https://github.com/Bhavya05shah)
 
 ## Walkthrough
 We used Deep Q-Learning to solve the two problems of a Self balancing robot and Ball balancing about an axis on a plane. The self balancing robot folder of the repository contains the simulation urdf which is to be used on a software such as Isaac Sim, or any other, to simulate and make the algorithm work better.
